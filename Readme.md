@@ -32,4 +32,4 @@ skills yang saya miliki, project yang pernah dibuat, dan informasi kontak.
 
 ### Mobile
 
-![Screenshot Mobile](screenshot-mobile.png)
+![Screenshot Mobile](screenshot-mobile.jpeg)
